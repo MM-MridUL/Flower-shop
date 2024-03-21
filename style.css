@@ -142,3 +142,33 @@ header{
     margin-top: 34px;
 }
 
+/* information styles */
+
+.container-background{
+    background-color: rgba(39, 39, 39, 0.1);
+
+}
+
+.information{
+     display: flex;
+    justify-content: space-around;
+    padding: 30px 40px;
+}
+
+.information-item{
+   
+}
+
+.information-image img{
+    margin: 0 auto;
+}
+.information-text h3{
+    color: rgba(39, 39, 39, 0.8);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.information{
+    margin-bottom: 100px;
+}
