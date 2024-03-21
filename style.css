@@ -247,4 +247,22 @@ input{
 
     
 }
+/* footer section */
+.footer-section{
+    background-color: #111010;
+    padding: 40px 40px;
+}
+.footer-section p{
+    text-align: center;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.9);
+   
+}
+.footer-section h4{
+    color: rgba(255, 255, 255, 0.4);
+    text-align: center;
+}
 
+.footer-section h2{
+    color: #FFFFFF;
+}
